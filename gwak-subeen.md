@@ -1,14 +1,16 @@
 ---
-Title:The Elf King
-Year:1815
-Genre:Art song
-Disease:High fever
-ICD:R50
+Title: The Elf King
+Year: 1815
+Genre: Art song
+Disease: High fever
+ICD: R50
 ---
 
 # The Elf King
 
 The art song Erlkönig was composed by Franz Schubert after he was inspired by the poem of the same name. Schubert was born on January 31, 1797. The story tells of a sick child who sees the Erlking, while his father desperately tries to protect him and flee. In the end, however, the child is taken by the Erlking and dies. In this song, a single vocalist takes on four different roles: the cunning Erlking, the father hurrying home, the terrified son, and the narrator. The Erlking’s vocal lines are first sung in the parallel key of B-flat major, then in C major, and finally in A-flat major, which functions as the Neapolitan key of C minor. As the melody gradually rises in pitch, the tension intensifies, vividly portraying the pursuit of the Erlking, who symbolizes disease itself. In this regard, it is also useful to refer to “[How music in other works expresses tension][ha-yubin.md].”The lyrics portray the child’s high fever symptoms as visions of the Erlking. Unlike the child, the father cannot see the Erlking. He rushes away in an attempt to save his son, but before the child can receive any treatment, he ultimately succumbs to either the illness or the Erlking itself.
+
+
 
 # 마왕
 
