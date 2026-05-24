@@ -10,7 +10,7 @@ ICD: F48.2
 
 The music “Bathroom Dance” from the film *Joker* was composed by Hildur Guðnadóttir (born 1982). It is characterized by a low-register, cello-centered sound, slow and repetitive melodic patterns, and a gradual build-up of tension. The music is mostly instrumental, with little to no lyrics, and effectively reflects the inner transformation of the protagonist. Arthur Fleck is an aspiring comedian who lives in poverty and social isolation, suffering from a neurological laughing disorder and psychological instability. As he repeatedly experiences social discrimination and violence, he becomes increasingly detached from reality. Eventually, he forms a new identity as “Joker” and transforms into a violent figure. In particular, the gradual increase in volume and tension reflects Arthur Fleck’s growing anxiety and emotional instability and the heavy cello sound and repetitive melody emphasize his isolation and inner conflict. The music also strengthens the audience’s immersion in Arthur’s psychological transformation. Therefore, the music functions not only as background sound but also as an important element that reinforces the emotional impact of the scene. In this regard, it would also be helpful to refer to [The content of another film](seo-yonghwan.md) and [YouTube](https://youtu.be/VdfgiEQeceM?si=vW8psmRTtjPQORhy).
 
-<img src="https://github.com/user-attachments/assets/3f6d8cbb-f830-4cd3-a5a2-452c3fc6bff8" alt="Abstract image of Bathroom Dance" style="width:43%;" />
+<img src="https://github.com/user-attachments/assets/3f6d8cbb-f830-4cd3-a5a2-452c3fc6bff8" alt="Abstract image of Bathroom Dance" style="width:45%;" />
 
 # 조커
 
